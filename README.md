@@ -1,9 +1,7 @@
 # ConversorDec2Bin
  
-#Esto es un programa que sirve para convertir números de decimal a binario
+Esto es un programa que sirve para convertir números de decimal a binario según el número de bits dados
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| Pones un número decimal | Pones el número de bits | Obtienes el número en binario |         
+|           5             |            4            |              1111             |
